@@ -1,0 +1,162 @@
+body {font-family: 'Montserrat', sans-serif;
+    background-color:#f5f7fa;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 0 auto;
+}
+/* main styles */
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 100px auto;
+}
+
+.main-content {
+    background-color: #fff;
+    box-shadow: 6px 6px 20px rgba( 0, 0, 0, 0.3);
+    padding: 105px 90px;
+}
+.about-positson{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 17px;
+    color: #000000; 
+    margin-bottom: 20px;   
+}
+
+.about-name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+.about-description{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;   
+    color: #595959;    
+    width: 400px; 
+    margin-bottom: 100px;
+}
+
+.work-work{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000; 
+}
+
+.work-position{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;    
+    color: #000000;
+    margin-top: 20px;
+}
+
+.work-position-color{
+    font-weight: 700;
+}
+
+.work-list{
+    padding: 0;
+    margin-left: 20px;
+}
+
+.work-list-item{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #595959;
+
+}
+
+.education-skills{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #fff;
+    margin-top: 30px;
+    background:#1e2a3a;
+    padding-left: 10px;
+
+}
+
+.Education-spesials{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;   
+}
+
+/* sidebar styles */
+
+.sidebar {
+    background:#1e2a3a ;
+    padding-top: 40px;
+    width: 370px;
+}
+
+.foto{
+    width: 370px;
+    margin-bottom: 50px;
+}
+
+.contacts,
+.Tech-skills,
+.Soft-skills {
+   margin-left: 30px;  
+}
+
+.contacts{
+    margin-bottom: 50px;
+}
+
+
+
+.sidebar-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF; 
+    margin-bottom: 10px;
+}
+
+.contacts-type{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+
+.contacts-link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    color: #fff;
+}
+
+.location__title {
+    margin-top: 450px;
+}
+
+.location {
+    color: #fff;
+    font-size: 20px;
+}
